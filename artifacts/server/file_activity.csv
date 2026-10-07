@@ -1,0 +1,7 @@
+timestamp,host,event,user,detail
+2026-09-18T09:23:18Z,FILE-01,REMOTE_SESSION,adm_ops,session from WS-FIN-07
+2026-09-18T09:27:44Z,FILE-01,ARCHIVE_CREATED,adm_ops,finance_2026_stage.zip
+2026-09-18T09:28:02Z,FILE-01,ARCHIVE_CREATED,adm_ops,contracts_stage.zip
+2026-09-18T09:35:16Z,FILE-01,MASS_RENAME,adm_ops,rapid extension changes detected
+2026-09-18T09:36:01Z,FILE-01,SERVICE_FAILURE,SYSTEM,file service unavailable
+2026-09-18T09:36:44Z,FILE-01,NOTE_CREATED,adm_ops,READ_ME_DEADVAULT.txt
