@@ -1,0 +1,9 @@
+timestamp,host,user,process,parent,command_summary
+2026-09-18T08:42:11Z,WS-HR-03,ahughes,outlook.exe,explorer.exe,normal user activity
+2026-09-18T08:55:02Z,WS-FIN-07,mcarter,excel.exe,explorer.exe,quarterly workbook
+2026-09-18T09:02:14Z,WS-FIN-07,mcarter,powershell.exe,winword.exe,encoded command observed
+2026-09-18T09:02:19Z,WS-FIN-07,mcarter,rundll32.exe,powershell.exe,unusual child process
+2026-09-18T09:03:07Z,WS-FIN-07,mcarter,cmd.exe,rundll32.exe,system discovery activity
+2026-09-18T09:11:33Z,WS-ENG-12,jreed,python.exe,code.exe,approved engineering script
+2026-09-18T09:14:20Z,WS-FIN-07,mcarter,net.exe,cmd.exe,domain discovery
+2026-09-18T09:16:48Z,WS-FIN-07,mcarter,tasklist.exe,cmd.exe,process discovery
