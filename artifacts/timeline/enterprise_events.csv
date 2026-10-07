@@ -1,0 +1,14 @@
+timestamp,source,event,summary
+2026-09-18T09:02:14Z,WS-FIN-07,PROCESS,Office application spawned unusual PowerShell
+2026-09-18T09:03:15Z,DNS,QUERY,WS-FIN-07 queried cdn-sync.example.test
+2026-09-18T09:03:18Z,FIREWALL,CONNECTION,WS-FIN-07 connected to 203.0.113.77
+2026-09-18T09:21:54Z,IDENTITY,PRIVILEGED_LOGON,adm_ops authenticated from WS-FIN-07
+2026-09-18T09:23:18Z,FILE-01,REMOTE_SESSION,adm_ops session from WS-FIN-07
+2026-09-18T09:27:44Z,FILE-01,ARCHIVE_CREATED,finance staging archive created
+2026-09-18T09:28:02Z,FILE-01,ARCHIVE_CREATED,contracts staging archive created
+2026-09-18T09:29:10Z,FIREWALL,CONNECTION,FILE-01 outbound HTTPS connection
+2026-09-18T09:31:22Z,FIREWALL,CONNECTION,FILE-01 second outbound HTTPS connection
+2026-09-18T09:34:51Z,BKP-01,REPOSITORY_CHANGE,backup repository modified
+2026-09-18T09:35:16Z,FILE-01,MASS_RENAME,rapid file extension changes
+2026-09-18T09:36:01Z,FILE-01,OUTAGE,file service unavailable
+2026-09-18T09:36:44Z,FILE-01,RANSOM_NOTE,extortion note created
