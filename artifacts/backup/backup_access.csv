@@ -1,0 +1,6 @@
+timestamp,source,user,target,action,result
+2026-09-18T02:30:00Z,BKP-01,svc_vault,VAULT-01,controlled_copy,SUCCESS
+2026-09-18T09:26:37Z,WS-FIN-07,adm_ops,BKP-01,remote_session,SUCCESS
+2026-09-18T09:32:08Z,WS-FIN-07,adm_ops,BKP-01,catalog_access,SUCCESS
+2026-09-18T09:34:51Z,WS-FIN-07,adm_ops,BKP-01,repository_change,SUCCESS
+2026-09-18T09:40:03Z,BKP-01,svc_vault,VAULT-01,network_session,DENIED_ISOLATED
