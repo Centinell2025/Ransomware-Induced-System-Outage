@@ -1,0 +1,9 @@
+timestamp,user,source,destination,result,logon_type
+2026-09-18T08:51:33Z,mcarter,WS-FIN-07,DC-01,SUCCESS,interactive
+2026-09-18T09:04:41Z,mcarter,WS-FIN-07,FILE-01,SUCCESS,network
+2026-09-18T09:07:12Z,svc_backup,BKP-01,FILE-01,SUCCESS,service
+2026-09-18T09:18:06Z,mcarter,WS-FIN-07,DC-01,FAIL,network
+2026-09-18T09:21:54Z,adm_ops,WS-FIN-07,DC-01,SUCCESS,network
+2026-09-18T09:23:11Z,adm_ops,WS-FIN-07,FILE-01,SUCCESS,network
+2026-09-18T09:26:37Z,adm_ops,WS-FIN-07,BKP-01,SUCCESS,network
+2026-09-18T09:31:02Z,jreed,WS-ENG-12,FILE-01,SUCCESS,network
