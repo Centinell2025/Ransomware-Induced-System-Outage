@@ -1,0 +1,5 @@
+timestamp,host,query,result
+2026-09-18T08:57:10Z,WS-FIN-07,updates.example.test,192.0.2.20
+2026-09-18T09:03:15Z,WS-FIN-07,cdn-sync.example.test,203.0.113.77
+2026-09-18T09:20:04Z,FILE-01,telemetry.example.test,192.0.2.44
+2026-09-18T09:28:59Z,FILE-01,cdn-sync.example.test,203.0.113.77
