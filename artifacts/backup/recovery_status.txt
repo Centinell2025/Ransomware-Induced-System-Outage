@@ -1,0 +1,13 @@
+Recovery validation report
+Generated: 2026-09-18T11:10:00Z
+
+BKP-01
+Status: UNTRUSTED
+Reason: unauthorized privileged access and repository modification occurred during incident window.
+
+VAULT-01
+Status: AVAILABLE
+Last controlled copy: 2026-09-18T02:30:00Z
+Isolation control: PASS
+Integrity verification: PASS
+Restore test: PASS
