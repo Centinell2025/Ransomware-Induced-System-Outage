@@ -1,0 +1,5 @@
+timestamp,user,source,event,target,result
+2026-09-18T08:10:02Z,adm_ops,ADMIN-02,maintenance,DC-01,approved
+2026-09-18T09:21:54Z,adm_ops,WS-FIN-07,privileged_logon,DC-01,unexpected_source
+2026-09-18T09:23:11Z,adm_ops,WS-FIN-07,remote_access,FILE-01,unexpected_source
+2026-09-18T09:26:37Z,adm_ops,WS-FIN-07,remote_access,BKP-01,unexpected_source
